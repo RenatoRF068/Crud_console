@@ -23,7 +23,7 @@ System.out.println("5. Fechar Programa");
     Atualizar.AtualizarCatalogo();
         break;
     case 4:
-    Deletar.DeletarFilme();
+    Deletar.DeletarSerie();
         break;
     case 5:
 
