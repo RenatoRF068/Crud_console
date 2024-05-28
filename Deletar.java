@@ -6,7 +6,7 @@ import java.io.IOException;
 
 
 public class Deletar{
-public static void DeletarFilme() {
+public static void DeletarSerie() {
     Scanner scanner = new Scanner(System.in);
     System.out.println("\n");
     System.out.println("Digite o número da linha a ser deletada:");
